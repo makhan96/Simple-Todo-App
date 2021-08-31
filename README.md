@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-* [X] Poppins font and custom UI background color
+* [X] Poppins font and custom UI background color along with custom button
 
 ## Video Walkthrough
 
